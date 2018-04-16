@@ -14,8 +14,8 @@ Make an issue on his github.
 
 # Halo and Halodark
 
-Version 1.7.0
-Date : 18/12/2017
+Version 1.9.0
+Date : 16/04/2018
 
 https://github.com/Ampiflow/
 
